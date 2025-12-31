@@ -1,0 +1,6 @@
+com\unir\ms_biblioteca\model\alquiler.class
+com\unir\ms_biblioteca\model\libro.class
+com\unir\ms_biblioteca\controller\libroController.class
+com\unir\ms_biblioteca\repository\alquilerRepository.class
+com\unir\ms_biblioteca\MsBibliotecaApplication.class
+com\unir\ms_biblioteca\repository\libroRepository.class

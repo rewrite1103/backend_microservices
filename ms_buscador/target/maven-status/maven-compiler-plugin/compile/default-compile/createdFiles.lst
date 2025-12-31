@@ -1,0 +1,5 @@
+com\unir\ms_buscador\controller\libroController.class
+com\unir\ms_buscador\service\libroService.class
+com\unir\ms_buscador\entity\libro.class
+com\unir\ms_buscador\MsBuscadorApplication.class
+com\unir\ms_buscador\repository\libroRepository.class
